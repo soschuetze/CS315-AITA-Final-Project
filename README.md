@@ -1,5 +1,7 @@
 # The Characteristics of Advice-Seeking and Giving on Reddit
 
+![Overview of topic modeling groups](TopicModeling.png)
+
 ## Contents of This File
 1. Introduction
 2. Requirements
